@@ -3,7 +3,7 @@
 import random
 
 # List of colors
-colors = ["red", "blue", "green", "yellow", "purple", "black"]
+colors = ["red", "blue", "green", "yellow", "purple", "black","tan"]
 
 # Randomly pick one color
 random_color = random.choice(colors)
